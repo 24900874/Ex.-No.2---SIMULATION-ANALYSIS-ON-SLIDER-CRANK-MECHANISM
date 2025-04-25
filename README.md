@@ -42,8 +42,8 @@
 ![Screenshot 2025-04-24 214754](https://github.com/user-attachments/assets/8e86f6d5-2bd5-49d1-8c97-3ad11905f152)
 
 
-### Name: Parani Bala M
-### Register Number: 212224230192
+### Name: Geethapriyan A S
+### Register Number: 212224230074
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
